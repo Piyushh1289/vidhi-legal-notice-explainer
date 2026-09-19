@@ -1,0 +1,44 @@
+[
+  {
+    "id": "ni_act_138",
+    "act": "Negotiable Instruments Act, 1881",
+    "section": "Section 138",
+    "title": "Dishonour of cheque for insufficiency of funds",
+    "text": "When a cheque is returned unpaid by the bank because the account has insufficient funds, or the amount exceeds the arrangement made with the bank, the person who issued the cheque commits an offence. The payee (person owed money) must send a written demand notice within 30 days of receiving the bank's dishonour memo. The cheque issuer then has 15 days from receiving that notice to pay the amount. If payment is not made within those 15 days, the payee can file a criminal complaint within one month of the 15-day period expiring. Punishment can include imprisonment up to 2 years, a fine up to twice the cheque amount, or both."
+  },
+  {
+    "id": "ni_act_notice_requirement",
+    "act": "Negotiable Instruments Act, 1881",
+    "section": "Section 138 - Notice Requirement",
+    "title": "What the 15-day demand notice means",
+    "text": "A notice citing Section 138 is a legal warning, not a court summons. It means a cheque you issued bounced, and the receiver is giving you a final 15-day window to pay before they go to court. Paying within 15 days of receiving the notice generally stops any criminal case from being filed. Ignoring the notice does not cancel the debt - it allows the other party to file a criminal complaint against you in a magistrate court."
+  },
+  {
+    "id": "consumer_protection_2019_35",
+    "act": "Consumer Protection Act, 2019",
+    "section": "Section 35",
+    "title": "Filing a complaint before the District Consumer Commission",
+    "text": "A consumer who has a complaint against a seller or service provider (defective goods, deficient service, unfair trade practice, overcharging) can file a complaint before the District Consumer Disputes Redressal Commission. There is no court fee for claims up to a specified value. The complaint can be filed by the consumer themselves without a lawyer. Complaints must generally be filed within 2 years from the date the cause of the complaint arose."
+  },
+  {
+    "id": "consumer_protection_notice",
+    "act": "Consumer Protection Act, 2019",
+    "section": "General practice",
+    "title": "What a consumer legal notice typically means",
+    "text": "A legal notice from a consumer or a business regarding a consumer dispute is usually a pre-litigation demand - asking for a refund, replacement, repair, or compensation before either party approaches the Consumer Commission. Responding with a written reply, even a simple one, is generally advisable. It does not by itself mean a case has been filed in court."
+  },
+  {
+    "id": "cpc_order_5",
+    "act": "Code of Civil Procedure, 1908",
+    "section": "Order V",
+    "title": "Summons to defendant",
+    "text": "A summons is a formal court document ordering a person to appear before the court on a specified date, either in person or through a lawyer, to answer a claim filed against them. Failing to appear can result in an ex-parte order - meaning the court may decide the case without hearing that person's side."
+  },
+  {
+    "id": "general_legal_terms",
+    "act": "General reference",
+    "section": "Common terms",
+    "title": "Common Latin and legal terms",
+    "text": "Res judicata means a matter already decided by a court cannot be raised again in a new case. Ex-parte means a court order or hearing that happens with only one side present. Suo moto means a court or authority acting on its own, without anyone filing a complaint. Bona fide means done in good faith, honestly. Mala fide means done in bad faith, with dishonest intent. Prima facie means based on first impression, before deeper investigation. Sine die means adjourned without fixing a future date. Status quo means the existing state of affairs, to be maintained without change."
+  }
+]
